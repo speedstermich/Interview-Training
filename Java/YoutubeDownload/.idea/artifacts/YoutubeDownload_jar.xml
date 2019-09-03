@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YoutubeDownload:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YoutubeDownload_jar</output-path>
+    <root id="archive" name="YoutubeDownload.jar">
+      <element id="module-output" name="YoutubeDownload" />
+    </root>
+  </artifact>
+</component>
